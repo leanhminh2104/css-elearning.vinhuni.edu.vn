@@ -11,10 +11,6 @@
 // @icon         https://www.google.com/s2/favicons?domain=elearning.vinhuni.edu.vn
 // @homepageURL  https://elearning.vinhuni.edu.vn/
 // @supportURL   https://elearning.vinhuni.edu.vn/guide/
-// @run-at       document-start
-// @noframes
-// @grant        GM_addStyle
-// @grant        GM_registerMenuCommand
 // ==/UserScript==
 
 (function () {
