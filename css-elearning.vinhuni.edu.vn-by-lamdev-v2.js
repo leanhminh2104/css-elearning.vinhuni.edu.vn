@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         VinhUni E-learning — Custom UI (Teal/Violet)
-// @name:vi      VinhUni E-learning — Tuỳ biến giao diện
 // @namespace    Menu VinhUni E-learning — Custom UI (Teal/Violet) 
 // @version      1.3.0
 // @description  Nâng cấp giao diện: header dark-glass, menubar, sidebar, tabs, card, mini-calendar, tiến độ SVG, sửa ảnh/placeholder và văn bản.
