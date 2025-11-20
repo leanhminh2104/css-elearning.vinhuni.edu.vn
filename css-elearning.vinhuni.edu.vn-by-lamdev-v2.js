@@ -1,15 +1,14 @@
 // ==UserScript==
 // @name         VinhUni E-learning — Custom UI (Teal/Violet)
 // @name:vi      VinhUni E-learning — Tuỳ biến giao diện
-// @namespace    https://elearning.vinhuni.edu.vn/
-// @namespace    https://congsv.vinhuni.edu.vn/
+// @namespace    Menu VinhUni E-learning — Custom UI (Teal/Violet) 
 // @version      1.3.0
 // @description  Nâng cấp giao diện: header dark-glass, menubar, sidebar, tabs, card, mini-calendar, tiến độ SVG, sửa ảnh/placeholder và văn bản.
 // @description:vi Nâng cấp giao diện tổng thể, đồng bộ màu xanh ngọc–tím, tối ưu khả năng đọc và tương tác.
 // @author       LAMDev - DICHVUSALE.IO.VN
 // @license      MIT
-// @match        https://elearning.vinhuni.edu.vn/*
-// @match////        https://congsv.vinhuni.edu.vn/*
+// @match        *://elearning.vinhuni.edu.vn/*
+// @match        *://congsv.vinhuni.edu.vn/*
 // @icon         https://www.google.com/s2/favicons?domain=elearning.vinhuni.edu.vn
 // @homepageURL  https://elearning.vinhuni.edu.vn/
 // @supportURL   https://elearning.vinhuni.edu.vn/guide/
