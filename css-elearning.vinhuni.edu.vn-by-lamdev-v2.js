@@ -8,7 +8,7 @@
 // @license      MIT
 // @match        *://elearning.vinhuni.edu.vn/*
 // @match        *://congsv.vinhuni.edu.vn/*
-// @icon         https://www.google.com/s2/favicons?domain=elearning.vinhuni.edu.vn
+// @icon         https://elearning.vinhuni.edu.vn/pluginfile.php/1/theme_klass/logo/1736161506/logo.png
 // @homepageURL  https://elearning.vinhuni.edu.vn/
 // @supportURL   https://elearning.vinhuni.edu.vn/guide/
 // ==/UserScript==
