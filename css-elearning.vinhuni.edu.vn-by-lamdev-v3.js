@@ -9,7 +9,7 @@
 // @match        *://elearning.vinhuni.edu.vn/*
 // @match        *://congsv.vinhuni.edu.vn/*
 // @icon         https://elearning.vinhuni.edu.vn/pluginfile.php/1/theme_klass/logo/1736161506/logo.png
-// @homepageURL  https://dichvusale.io.vn/
+// @homepageURL  https://elearning.vinhuni.edu.vn/
 // @supportURL   https://dichvusale.io.vn/
 // @grant        GM_addStyle
 // ==/UserScript==
