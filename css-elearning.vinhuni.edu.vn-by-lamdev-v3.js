@@ -23,25 +23,25 @@
 
     const DEFAULTS = {
         // Core UI
-        darkMode: true,         // Dark Mode (giao diện tối)
-        glassMode: true,        // Glass Effect (kính mờ)
+        darkMode: false,         // Dark Mode (giao diện tối)
+        glassMode: false,        // Glass Effect (kính mờ)
 
         // Visual Effects
-        galaxyEffect: true,     // Hiệu ứng vũ trụ (solar system + stars)
-        customCursor: true,     // Con trỏ chuột SVG đẹp
-        gradientHeader: true,   // Tiêu đề gradient
-        cardEffects: true,      // Hiệu ứng card
-        hoverEffects: true,     // Hiệu ứng hover
+        galaxyEffect: false,     // Hiệu ứng vũ trụ (solar system + stars)
+        customCursor: false,     // Con trỏ chuột SVG đẹp
+        gradientHeader: false,   // Tiêu đề gradient
+        cardEffects: false,      // Hiệu ứng card
+        hoverEffects: false,     // Hiệu ứng hover
 
         // Personalization
-        customAvatar: true,     // Avatar anime
-        funText: true,          // Slogan vui vẻ
-        miniCalendar: true,     // Lịch nhỏ đẹp
-        navDrawer: true,        // Sidebar đẹp
+        customAvatar: false,     // Avatar anime
+        funText: false,          // Slogan vui vẻ
+        miniCalendar: false,     // Lịch nhỏ đẹp
+        navDrawer: false,        // Sidebar đẹp
 
         // Utilities
-        removeBanner: true,     // Xóa banner iSpring
-        menuAutoHide: true,    // Tự động ẩn menu
+        removeBanner: false,     // Xóa banner iSpring
+        menuAutoHide: false,    // Tự động ẩn menu
         menuPosition: 'left',   // Vị trí menu: 'left', 'right'
         menuCompact: false      // Menu thu gọn
     };
