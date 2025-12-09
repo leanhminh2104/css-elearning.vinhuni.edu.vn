@@ -43,7 +43,7 @@
         removeBanner: true,     // Xóa banner iSpring
         menuAutoHide: true,    // Tự động ẩn menu
         menuPosition: 'left',   // Vị trí menu: 'left', 'right'
-        menuCompact: true      // Menu thu gọn
+        menuCompact: false      // Menu thu gọn
     };
 
     // Load config từ LocalStorage
