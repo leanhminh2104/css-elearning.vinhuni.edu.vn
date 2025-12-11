@@ -42,7 +42,7 @@
         // Utilities
         removeBanner: false,     // Xóa banner iSpring
         menuAutoHide: false,    // Tự động ẩn menu
-        menuPosition: 'left',   // Vị trí menu: 'left', 'right'
+        menuPosition: 'right',   // Vị trí menu: 'left', 'right'
         menuCompact: false      // Menu thu gọn
     };
 
