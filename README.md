@@ -140,7 +140,7 @@ Nếu bạn yêu thích giao diện này và muốn ủng hộ tác giả một 
       <h3>💖 Ngân hàng MB Bank</h3>
       <p><b>Số tài khoản:</b> <code>2104200637</code></p>
       <p><b>Chủ tài khoản:</b> LÊ VĂN ANH MINH</p>
-      <p><b>Nội dung:</b> <i>VinhUni + Tên bạn</i></p>
+      <p><b>Nội dung:</b> <i>Donate + Tên bạn</i></p>
     </td>
     <td align="center">
       <img src="https://img.vietqr.io/image/MB-2104200637-qr_only.png" alt="QR MB Bank" width="180" />
