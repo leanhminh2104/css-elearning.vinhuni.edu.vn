@@ -3,6 +3,7 @@ import requests
 import uuid
 import base64
 import json
+from datetime import datetime  # THÊM DÒNG NÀY
 from bs4 import BeautifulSoup
 
 app = Flask(__name__)
@@ -581,5 +582,4 @@ def health_check():
     return jsonify({"status": "healthy", "service": "VinUni Balance API"}), 200
 
 if __name__ == "__main__":
-    from datetime import datetime
     app.run(host="0.0.0.0", port=10000, debug=True)
