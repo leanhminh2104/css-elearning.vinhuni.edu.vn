@@ -336,7 +336,7 @@ HTML_TEMPLATE = """
                     <p>Method: GET</p>
                     <p>Response: JSON</p>
                     <div class="api-link">
-                        {{ request.host_url }}balance?user=245751020510150&pass=21042006minh
+                        {{ request.host_url }}balance?user={msv}&pass={pass}
                     </div>
                 </div>
             </div>
