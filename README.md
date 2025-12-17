@@ -54,7 +54,7 @@ Bạn cần cài **Tampermonkey** cho trình duyệt của mình:
 
 Sau khi đã có Tampermonkey, hãy bấm vào nút bên dưới để cài đặt:
 
-➡️ [**CLICK ĐỂ CÀI ĐẶT SCRIPT (INSTALL)**](https://github.com/leanhminh2104/VinhUni-Ultimate-Suite/raw/main/css-elearning.vinhuni.edu.vn-by-lamdev.user.js)
+➡️ [**CLICK ĐỂ CÀI ĐẶT SCRIPT (INSTALL)**](https://github.com/leanhminh2104/css-elearning.vinhuni.edu.vn/raw/main/css-elearning.vinhuni.edu.vn-by-lamdev.user.js)
 
 *(Một tab mới sẽ hiện ra, bạn chỉ cần bấm nút **Install** hoặc **Cài đặt** là xong)*
 
