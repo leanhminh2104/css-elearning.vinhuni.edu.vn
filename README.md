@@ -30,7 +30,15 @@ Không chỉ dừng lại ở việc đổi màu, script này mang đến trải
 
 ## 📸 Hình ảnh demo
 
-[*(Chỗ này bạn có thể chèn ảnh chụp màn hình giao diện sau này)*]([https://postimg.cc/1g8425xZ](https://i.postimg.cc/8CHWFjts/screenshot-31.png))
+<img src="https://i.postimg.cc/8CHWFjts/screenshot-31.png" alt="Ảnh Demo"/>
+
+## 📸 Hình ảnh demo
+
+![Giao diện Ultimate Suite](https://i.postimg.cc/8CHWFjts/screenshot-31.png)
+
+> 🖼️ **Tưởng tượng:** Một giao diện tối huyền bí, thanh menu kính mờ, phía sau là hệ mặt trời đang chuyển động và những ngôi sao băng rơi... Đó chính là Ultimate Suite.
+
+---
 
 > 🖼️ **Tưởng tượng:** Một giao diện tối huyền bí, thanh menu kính mờ, phía sau là hệ mặt trời đang chuyển động và những ngôi sao băng rơi... Đó chính là Ultimate Suite.
 
