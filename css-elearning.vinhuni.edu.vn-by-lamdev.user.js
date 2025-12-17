@@ -5,7 +5,7 @@
 // @updateURL    https://raw.githubusercontent.com/leanhminh2104/css-elearning.vinhuni.edu.vn/refs/heads/main/css-elearning.vinhuni.edu.vn-by-lamdev-v3.js
 // @downloadURL  https://raw.githubusercontent.com/leanhminh2104/css-elearning.vinhuni.edu.vn/refs/heads/main/css-elearning.vinhuni.edu.vn-by-lamdev-v3.js
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      1.0
 // @author       LAM - DICHVUSALE.IO.VN - LEANHMINH.IO.VN
 // @match        *://elearning.vinhuni.edu.vn/*
 // @match        *://congsv.vinhuni.edu.vn/*
