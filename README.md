@@ -116,7 +116,7 @@ Bảng điều khiển **Ultimate Panel** cho phép bạn bật/tắt từng tí
 
 **Kênh hỗ trợ:**
 * 💬 **Zalo Group:** [Tham gia nhóm hỗ trợ](https://zalo.me/g/boiqoq426)
-* 🌐 **Website:** [dichvusale.io.vn](https://dichvusale.io.vn)
+* 🌐 **Website:** [dichvusale.io.vn](https://dalymmo.com)
 * 🐞 **Báo lỗi:** Vui lòng chụp ảnh màn hình và gửi vào nhóm Zalo.
 
 ---
