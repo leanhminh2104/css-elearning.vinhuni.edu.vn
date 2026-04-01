@@ -1,6 +1,6 @@
 # 🎓 VinhUni E-learning — Ultimate Suite (Premium UI + Toggles)
 
-![Version](https://img.shields.io/badge/Version-4.0.0-blue?style=for-the-badge&logo=tampermonkey)
+![Version](https://img.shields.io/badge/Version-3.0.0-blue?style=for-the-badge&logo=tampermonkey)
 ![Author](https://img.shields.io/badge/Author-LAMDev-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
